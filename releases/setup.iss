@@ -103,6 +103,7 @@ Source: "..\release\languages\ChineseSimplified.qm"; DestDir: "{app}\languages";
 Source: "..\release\languages\English.qm";      DestDir: "{app}\languages"; Flags: ignoreversion         
 Source: "..\release\languages\French.qm";       DestDir: "{app}\languages"; Flags: ignoreversion    
 Source: "..\release\languages\Russian.qm";      DestDir: "{app}\languages"; Flags: ignoreversion
+Source: "..\release\languages\Spanish.qm";      DestDir: "{app}\languages"; Flags: ignoreversion
 Source: "..\release\languages\languages.ini";   DestDir: "{app}\languages"; Flags: ignoreversion
 Source: "..\release\platforms\qminimal.dll";    DestDir: "{app}\platforms"; Flags: ignoreversion
 Source: "..\release\platforms\qoffscreen.dll";  DestDir: "{app}\platforms"; Flags: ignoreversion
